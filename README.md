@@ -3,26 +3,26 @@
 
 ## Preview
 <div>
-    <img src="demo-2.gif" alt="drawing" width="400"/>
-    <img src="demo.gif" alt="drawing" width="400"/>
+    <img src="src/assets/images/demo-2.gif" alt="drawing" width="400"/>
+    <img src="src/assets/images/demo.gif" alt="drawing" width="400"/>
 </div>
 
 ## Light Mode
 
 <div>
-    <img src="5.png" alt="drawing" width="200"/>
-    <img src="6.png" alt="drawing" width="200"/>
-    <img src="6.png" alt="drawing" width="200"/>
-    <img src="6.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/5.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/6.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/6.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/6.png" alt="drawing" width="200"/>
 </div>
 
 ##  Dark Mode
 
 <div>
-    <img src="1.png" alt="drawing" width="200"/>
-    <img src="2.png" alt="drawing" width="200"/>
-    <img src="2.png" alt="drawing" width="200"/>
-    <img src="2.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/1.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/2.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/2.png" alt="drawing" width="200"/>
+    <img src="src/assets/images/2.png" alt="drawing" width="200"/>
 </div>
 
 ## Run this Application
