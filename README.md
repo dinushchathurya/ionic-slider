@@ -3,8 +3,8 @@
 
 ## Preview
 <div>
-    <img src="demo-2.gif" alt="drawing" width="200"/>
-    <img src="demo.gif" alt="drawing" width="200"/>
+    <img src="demo-2.gif" alt="drawing" width="400"/>
+    <img src="demo.gif" alt="drawing" width="400"/>
 </div>
 
 ## Light Mode
